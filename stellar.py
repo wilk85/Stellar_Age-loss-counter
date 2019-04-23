@@ -2,8 +2,9 @@
 Ships = [
     {'name' : 'Light Fighter', 'short' : 'LF', 'price' : 3_500, 'repair' : 1188},
     {'name' : 'Heavy Fighter', 'short' : 'HF', 'price' : 8_000, 'repair' : 2810},
-    {'name' : 'Cruiser', 'short' : 'CR', 'price' : 32_000, 'repair' : 11078},
-    {'name' : 'Battleship', 'short' : 'BA', 'price' : 90_000, 'repair' : 31789}
+    {'name' : 'Cruiser', 'short' : 'CR', 'price' : 32_000, 'repair' : 10977},
+    {'name' : 'Battleship', 'short' : 'BA', 'price' : 90_000, 'repair' : 31500},
+    {'name' : 'Dreadnought', 'short' : 'DR', 'price' : 300_000, 'repair' : 99631}
 ]
 
 def get_repair_price():
