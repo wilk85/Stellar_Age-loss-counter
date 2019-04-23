@@ -22,13 +22,3 @@ def count_repair():
 
 while True:
     count_repair()
-
-
-# Cena zakupu za sztukę
-# Light = 3,5, Heavy = 8, Cruiser = 32, Battleship = 90, 
-
-# Cena naprawy za sztukę
-# Light = 1188, Heavy = 2810, Cruiser = 11078, Battleship = 31789
-
-# obliczenia 32000 - 65,38% = 11078,4 - cruiser
-# 64,68
