@@ -22,3 +22,5 @@ def count_repair():
 
 while True:
     count_repair()
+
+    # Vacuum polarization I = lv 20 / 10.5% reduction BA: 31500, CR: 10977
