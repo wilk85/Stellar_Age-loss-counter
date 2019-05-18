@@ -1,4 +1,4 @@
-!#/usr/bin/env python3
+#!/usr/bin/env python3
 """ Loss and farm counter for stellar age, it's in early stage od building, v:1.0"
 __author__  = 'Sebastian Ostrowski'
 
