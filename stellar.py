@@ -5,9 +5,10 @@ __author__  = 'Sebastian Ostrowski'
 Ships = [
     {'name' : 'Light Fighter', 'short' : 'LF', 'price' : 3_500, 'repair' : 1188},
     {'name' : 'Heavy Fighter', 'short' : 'HF', 'price' : 8_000, 'repair' : 2810},
-    {'name' : 'Cruiser', 'short' : 'CR', 'price' : 32_000, 'repair' : 10977},
-    {'name' : 'Battleship', 'short' : 'BA', 'price' : 90_000, 'repair' : 31500},
-    {'name' : 'Dreadnought', 'short' : 'DR', 'price' : 300_000, 'repair' : 99631}
+    {'name' : 'Cruiser', 'short' : 'CR', 'price' : 32_000, 'repair' : 8814},
+    {'name' : 'Battleship', 'short' : 'BA', 'price' : 90_000, 'repair' : 25292},
+    {'name' : 'Dreadnought', 'short' : 'DR', 'price' : 300_000, 'repair' : 79995}
+    {'name' : 'Bomber', 'short' : 'BO', 'price' : 330_000, 'repair' : 97080}
 ]
 
 def get_repair_price():
