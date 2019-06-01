@@ -3,7 +3,7 @@
 0. By poprawnie używać programu z wartościami pod swoje konto należy, w liście obiektów ships, dla każdego statku zmieniać wartość repair
     [po każdym poziomie ulepszeń dla structural polarization]
 1. Otwieramy program, w pierwszej linii, podajemy ilość metalu na farmie / celu np. 3 lub 3.4 [oczywiście są to kwoty w milionach]
-2. Druga linia nakazuje nam podać nazwę statku, podajemy w skróconej wersji jak LF, HF, [lista obiektów posiada skrócone nazwy]
+2. Druga linia nakazuje nam podać nazwę statku, podajemy w skróconej wersji jak LF, HF, [lista obiektów posiada skrócone nazwy (short)]
 3. Trzeci input to straty które gra pokazuje w procentach, czyli np. 3, 4, 15
 4. Ostatni input to liczba statków które wysyłamy do celu np. 15000
 
