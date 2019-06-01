@@ -12,7 +12,7 @@ Wynikiem całego programu jest taki o to zapis:
 	Podaj wartość: 3
 	Podaj nazwę statku: lf
 	Podaj straty w %: 3
-      Podaj liczbę statków: 3000
+    Podaj liczbę statków: 3000
 
  	Straty Light Fighter: 90 | Koszty: 83,880 | Zarobek: 2,916,120
 
